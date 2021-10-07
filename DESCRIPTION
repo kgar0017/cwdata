@@ -1,12 +1,12 @@
 Package: cwdata
 Title: Datasets for communicating with data
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person(given = "Karan",
            family = "Garg",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "kgar0017@student.monash.edu",
+           comment = c(ORCID = "12345"))
 Description: What the package does (one paragraph).
 License: GPL (>= 3)
 Encoding: UTF-8
