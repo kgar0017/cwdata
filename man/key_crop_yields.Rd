@@ -19,6 +19,8 @@ A data frame with 53940 rows and 10 variables:
 \source{
 Where you get the data
 
+A data containing 143825 observation and 5 variables
+
 \url{https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-09-01/key_crop_yields.csv}
 }
 \usage{
@@ -26,11 +28,5 @@ key_crop_yields
 }
 \description{
 More details aout the data
-}
-\examples{
-
-
-A dataset containing 143825 observation and 5 variablesdevtools::document()
-
 }
 \keyword{datasets}

@@ -4,16 +4,11 @@
 #'
 #' More details aout the data
 #'
-#' @section  Data cotents
-#'
-#'  @format
 #'
 #'
 #' @source Where you get the data
-#' @examples
 #'
-#'
-#' A dataset containing 143825 observation and 5 variablesdevtools::document()
+#' A data containing 143825 observation and 5 variables
 #'
 #' @format A data frame with 53940 rows and 10 variables:
 #' \describe{
